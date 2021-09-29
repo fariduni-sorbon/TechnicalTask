@@ -1,0 +1,11 @@
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\bin\Debug\netcoreapp2.0\Техническое задание.deps.json
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\bin\Debug\netcoreapp2.0\Техническое задание.runtimeconfig.json
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\bin\Debug\netcoreapp2.0\Техническое задание.runtimeconfig.dev.json
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\bin\Debug\netcoreapp2.0\Техническое задание.dll
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\bin\Debug\netcoreapp2.0\Техническое задание.pdb
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\obj\Debug\netcoreapp2.0\Техническое задание.csproj.CoreCompileInputs.cache
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\obj\Debug\netcoreapp2.0\Техническое задание.AssemblyInfoInputs.cache
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\obj\Debug\netcoreapp2.0\Техническое задание.AssemblyInfo.cs
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\obj\Debug\netcoreapp2.0\Техническое задание.dll
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\obj\Debug\netcoreapp2.0\Техническое задание.pdb
+C:\Users\Fariduni S\Desktop\Техническое задание\Техническое задание\obj\Debug\netcoreapp2.0\Техническое задание.csprojResolveAssemblyReference.cache
